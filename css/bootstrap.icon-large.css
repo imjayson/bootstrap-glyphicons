@@ -1,5 +1,5 @@
 .icon-large {
-    background-image: url("../img/glyphicons.png");
+    background-image: url("../img/glyphicons-large.png");
     background-position: 24px 24px;
     background-repeat: no-repeat;
     display: inline-block;
@@ -7,6 +7,9 @@
     line-height: 28px;
     vertical-align: text-bottom;
     width: 28px;
+}
+.icon-large.icon-white {
+    background-image: url("../img/glyphicons-large-white.png");
 }
 .icon-large.icon-glass{ background-position: 0 0;  } 
 .icon-large.icon-leaf{ background-position: 0 -34px;  } 
